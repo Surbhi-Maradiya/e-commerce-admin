@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,wCACE,8BAAgC,CAChC,6BACF","file":"main.52e08128.chunk.css","sourcesContent":[".navbar-expand-sm .navbar-nav .nav-link {\n  padding-right: 1.5rem !important;\n  padding-left: 1.5rem !important;\n}"]}
